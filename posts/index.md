@@ -1,6 +1,11 @@
 ---
-layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+layout: page
+title: Resume
+
 comments: false
 ---
+
+RESUME:
+-----
+
+(Resume_1.pdf) 
