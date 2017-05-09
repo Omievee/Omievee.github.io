@@ -1,37 +1,10 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Who Am I?
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## Passionate. Motivated. Goal Oriented.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Android Developer, previous Commercial Photographer. I sought out a new challenge in a field that has always peaked my interest. I am both self taught & formally trained through General Assembly, completing their Android Development Immersive which was created in collaboration with top Google Engineers.
+During this time I learned from Senior Android Developers, teaching me best coding practices and the value of team work. I feel that my creative background is what separates me from other developers. Creativity comes natural to me, and combining that with my knowledge of Android Development allow me to produce some unique apps. I’m a self sufficient developer who loves be challenged, and solving tough problems. When I’m working with others, my main goal is to get the job done, and help them succeed, I truly believe a great team can accomplish anything
