@@ -8,4 +8,4 @@ comments: false
 RESUME:
 -----
 
-(Resume_1.pdf) 
+![RESUME](Resume_1.pdf) 
