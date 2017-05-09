@@ -8,4 +8,4 @@ comments: false
 RESUME:
 -----
 
-![RESUME](Resume_1.pdf) 
+<img src="Resume_1.pdf" />
