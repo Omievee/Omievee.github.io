@@ -1,4 +1,6 @@
-## FeedMe:
+## Projects:
+
+<b> FeedMe </b>
 
 An app designed during my time at General Assembly. Feed Me uses a local database with over 100 ingredients stored in it. By selecting a number of ingredients and adding them to your cutting board, Feed Me will find a number a recipes possible to cook with just the ingredients selected.
 
